@@ -10,7 +10,7 @@ export const useRegisterStore = defineStore("register", {
         password: "",
       },
       //   username: "",
-      //   password: "",
+      //   password: "",;;
     };
   },
   //getters
